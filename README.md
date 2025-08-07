@@ -1,4 +1,4 @@
-## Hi, I'm Vignesh 👋
+##👋 Hey, I’m Vignesh!
 
 💡 Data Science Enthusiast | 📊 Power BI & ML Explorer
 
